@@ -1,0 +1,10 @@
+#output2 {
+    font-family: "DIN Pro";
+    font-weight: 100;
+    font-size: 30px;
+    color: #666;
+    text-align: left;
+    position: fixed;
+    bottom: 18px;
+    left: 18px;
+}
